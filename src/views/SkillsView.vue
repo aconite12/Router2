@@ -13,7 +13,9 @@
           <td style="width: 75%;">
             <h4>Java</h4>
             <p>
-              I'm confident using java during 1st year 1st sem. I used it during diagnostic exam for dict to be qualified to take the proficiency held on november 15 but I'm not particular with the imports and frameworks.
+              I'm confident using java during 1st year 1st sem. I used it during diagnostic exam for dict to be
+              qualified to take the proficiency held on november 15 but I'm not particular with the imports and
+              frameworks.
             </p>
           </td>
         </tr>
@@ -39,7 +41,8 @@
           <td style="width: 75%;">
             <h4>JavaScript</h4>
             <p>
-              My skills is decent with using JavaScript also I'm upskilling this language since we always used JS frameworks such as react and vue.
+              My skills is decent with using JavaScript also I'm upskilling this language since we always used JS
+              frameworks such as react and vue.
             </p>
           </td>
         </tr>
@@ -65,7 +68,8 @@
           <td style="width: 75%;">
             <h4>PHP</h4>
             <p>
-              Only basic I know but I do not know the prepared statement since I did not use it and some validation for URL.
+              Only basic I know but I do not know the prepared statement since I did not use it and some validation for
+              URL.
             </p>
           </td>
         </tr>
@@ -78,7 +82,7 @@
           <td style="width: 75%;">
             <h4>React</h4>
             <p>
-              This is a description of the skill. It provides details about your expertise, background, or any information you’d like to share.
+              My skill using react language is decent.
             </p>
           </td>
         </tr>
@@ -91,7 +95,7 @@
           <td style="width: 75%;">
             <h4>Laravel</h4>
             <p>
-              This is a description of the skill. It provides details about your expertise, background, or any information you’d like to share.
+              My skill using laravel language is decent.
             </p>
           </td>
         </tr>
@@ -107,6 +111,4 @@ export default {
 };
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
