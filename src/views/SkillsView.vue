@@ -76,13 +76,26 @@
         <tr>
           <!-- Left Column: Picture -->
           <td style="width: 25%;" class="text-center">
+            <i class="fa-brands fa-3x fa-bootstrap"></i>
+          </td>
+          <!-- Right Column: Description -->
+          <td style="width: 75%;">
+            <h4>Bootstrap</h4>
+            <p>
+              My skill using bootstrap is decent since I did not have experience using other utilities and features offered by bootstrap.
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <!-- Left Column: Picture -->
+          <td style="width: 25%;" class="text-center">
             <i class="fa-brands fa-3x fa-react"></i>
           </td>
           <!-- Right Column: Description -->
           <td style="width: 75%;">
             <h4>React</h4>
             <p>
-              My skill using react language is decent.
+              My skill using react language is decent but needs more practice.
             </p>
           </td>
         </tr>
@@ -95,8 +108,16 @@
           <td style="width: 75%;">
             <h4>Laravel</h4>
             <p>
-              My skill using laravel language is decent.
+              My skill using laravel language is decent. When using many routes I am confused to configure or connecting them from different parts so I need more practice.
             </p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="text-center">
+            <h5>Check out my portfolio:</h5>
+            <a href="https://telecall-cwd-b13-23-ravenglennlagmay.netlify.app/" target="_blank">
+              telecall-cwd-b13-23-ravenglennlagmay.netlify.app
+            </a>
           </td>
         </tr>
       </table>

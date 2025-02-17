@@ -17,16 +17,6 @@
       <table class="table table-bordered align-middle">
         <!-- Movie Row 1 -->
         <tr>
-          <!-- Left Column: Movie Poster -->
-          <td style="width: 25%;" class="text-center">
-            <!-- <img
-              src="@/assets/movie1.jpg"
-              alt="Inception"
-              class="img-fluid rounded"
-              style="max-width: 120px;"
-            /> -->
-          </td>
-          <!-- Right Column: Movie Description -->
           <td style="width: 75%;">
             <h4>Inception</h4>
             <p>
@@ -37,14 +27,6 @@
 
         <!-- Movie Row 2 -->
         <tr>
-          <td style="width: 25%;" class="text-center">
-            <!-- <img
-              src="@/assets/movie2.jpg"
-              alt="The Shawshank Redemption"
-              class="img-fluid rounded"
-              style="max-width: 120px;"
-            /> -->
-          </td>
           <td style="width: 75%;">
             <h4>The Shawshank Redemption</h4>
             <p>
@@ -55,14 +37,6 @@
 
         <!-- Movie Row 3 -->
         <tr>
-          <td style="width: 25%;" class="text-center">
-            <!-- <img
-              src="@/assets/movie3.jpg"
-              alt="The Godfather"
-              class="img-fluid rounded"
-              style="max-width: 120px;"
-            /> -->
-          </td>
           <td style="width: 75%;">
             <h4>The Godfather</h4>
             <p>
@@ -71,7 +45,6 @@
           </td>
         </tr>
 
-        <!-- Add more movie rows as needed -->
       </table>
     </div>
     <FooterComponent class="mt-5" />
